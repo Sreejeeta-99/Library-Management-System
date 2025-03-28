@@ -24,5 +24,16 @@ A simple Java-based Library Management System that allows librarians to efficien
 
 ---
 
+## 📂 Project Structure
+
+LibraryManagementSystem/
+│── src/
+│   └── library/
+│       ├── Book.java                  # Represents a Book object  
+│       ├── Library.java               # Manages book operations  
+│       ├── LibraryManagementSystem.java  # Main class (Entry point)  
+
+---
+
 
 
